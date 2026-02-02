@@ -34,4 +34,20 @@ body {
     height: 2.5rem;
 }
 
-/* ***SS-PIZZA */
+.pizza-description {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: #f9f9f9;
+}
+
+.pizza-img {
+    width: 300px;
+    height: auto;
+}
+
+.author-img {
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
